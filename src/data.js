@@ -3,7 +3,7 @@ const data={
     _id:'1',
     name:"Nike slim Shirts",
     category:"Shirts",
-    image:"/images/product-2.jpeg"
+    image:"../images/product-2.jpeg"
     ,price:120,
     countInStock:40,
     brand:"Nike",
